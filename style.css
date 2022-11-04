@@ -21,7 +21,7 @@
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
-	background-attachment: fixed;
+
 	max-width: 100%;
 	display: flex;
 }
@@ -254,7 +254,7 @@ figure img{
 		background-position: center center;
 		background-size: cover;
 
-
+		max-width: 100%;
 		display: flex;
 	}
 
