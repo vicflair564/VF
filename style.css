@@ -4,7 +4,7 @@
 	font-family: 'Poppins', sans-serif;
 	box-sizing: border-box;
 }
-/* body {
+ body {
 	margin: 0;
 	padding: 0;
 	background: url("bg.png");
@@ -13,7 +13,7 @@
 	background-size: cover;
 	background-attachment: fixed;
 	max-width: 100%;
-} */
+} 
 .home {
 	margin: 0px;
 	padding: 0px;
@@ -249,7 +249,7 @@ figure img{
 	.home {
 		margin: 0px;
 		padding: 0px;
-
+		background: url("bg.png");
 		background-repeat: no-repeat;
 		background-position: center center;
 		background-size: cover;
