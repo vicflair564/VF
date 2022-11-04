@@ -187,9 +187,6 @@ figure img{
 	border-radius: 10px;
 }
 @media (max-width: 1200px) {
-	body{
-		max-width: 100%;
-	}
 	.toggle-button {
 		display: flex;
 		margin-top: 30px;
