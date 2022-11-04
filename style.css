@@ -166,7 +166,7 @@ figure img{
 	background-color: black;
 	border-radius: 10px;;
 }
-@media (max-width: 550px) {
+@media (max-width: 350px) {
 	.toggle-button {
 		display: flex;
 	}
