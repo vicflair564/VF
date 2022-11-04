@@ -194,7 +194,7 @@ figure img{
 		background: url("bg.png");
 		background-repeat: no-repeat;
 		background-position: center;
-		background-size: contain;
+
 
 		background-attachment: fixed;
 		max-width: 100%;
