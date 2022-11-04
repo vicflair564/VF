@@ -12,7 +12,7 @@ body {
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
-	width: 100%;
+	max-width: 100%;
 }
 .vflogo {
 	max-width: 300px;
