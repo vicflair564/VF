@@ -74,12 +74,13 @@ figcaption {
 	font-size: xx-large;
 }
 .aboutP {
-	max-width: 700px;
+	max-width: 1000px;
 	display: flex;
 	margin: 20px auto 10px auto;
 	padding-bottom: 30px;
 	clear: both;
 	line-height: 2em;
+	font-size: x-large;
 }
 .aboutBox{
 	display: block;
