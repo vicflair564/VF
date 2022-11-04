@@ -87,6 +87,7 @@ h2 {
 	display: flex;
 	text-align: center;
 	font-weight: bold;
+	overflow: hidden;
 }
 .services h2 {
 	margin-left: auto;
@@ -165,7 +166,7 @@ figure img{
 	background-color: black;
 	border-radius: 10px;;
 }
-@media (max-width: 960px) {
+@media (max-width: 550px) {
 	.toggle-button {
 		display: flex;
 	}
