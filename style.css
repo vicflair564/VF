@@ -223,5 +223,8 @@ figure img{
 	.figures {
 		display: block;
 	}
+	h2, figcaption {
+		font-size: xx-large;
+	}
 
 }
