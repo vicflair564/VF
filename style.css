@@ -139,6 +139,7 @@ figure img{
 }
 .navbar-links li {
 	list-style: none;
+	font-size: xx-large;
 }
 .navbar-links li a {
 	text-decoration: none;
