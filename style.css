@@ -124,6 +124,7 @@ figure img{
 	align-items: center;
 	background-color: white;
 	color: black;
+	min-height: fit-content;
 	max-height: 300px;
 	border-bottom: 2px solid black;
 }
