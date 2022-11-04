@@ -12,6 +12,7 @@ body {
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
+	width: 100%;
 }
 .vflogo {
 	max-width: 150px;
@@ -87,6 +88,7 @@ h2 {
 	text-align: center;
 	font-weight: bold;
 	overflow: hidden;
+	width: 100vw;
 }
 .services h2 {
 	margin-left: auto;
