@@ -68,6 +68,10 @@ button:hover {
 h2 {
 	text-align: center;
 	display: block;
+	font-size: xx-large;
+}
+figcaption {
+	font-size: xx-large;
 }
 .aboutP {
 	max-width: 700px;
