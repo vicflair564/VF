@@ -190,7 +190,9 @@ figure img{
 @media (max-width: 1200px) {
 	body{
 		max-width: 100%;
+		background-size: contain;
 		background-size: cover;
+
 	} 
 	.toggle-button {
 		display: flex;
