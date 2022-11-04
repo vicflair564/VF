@@ -158,8 +158,8 @@ figure img{
 	display: none;
 	flex-direction: column;
 	justify-content: space-between;
-	width: 30px;
-	height: 20px;
+	width: 10%;
+	height: 5%;
 }
 .toggle-button .bar {
 	height: 3px;
@@ -170,6 +170,7 @@ figure img{
 @media (max-width: 1200px) {
 	.toggle-button {
 		display: flex;
+		margin-top: 30px;
 	}
 	.navbar-links {
 		display: none;
