@@ -251,9 +251,9 @@ figure img{
 		padding: 0px;
 		background: url("bg.png");
 		background-repeat: no-repeat;
-		background-position: center;
+		background-position: center center;
 		background-size: cover;
-		background-attachment: fixed;
+
 		max-width: 100%;
 		display: flex;
 	}
