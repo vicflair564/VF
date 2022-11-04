@@ -125,7 +125,7 @@ figure img{
 	background-color: white;
 	color: black;
 	min-height: fit-content;
-	max-height: 300px;
+	max-height: 400px;
 	border-bottom: 2px solid black;
 }
 .brand-title {
@@ -163,10 +163,10 @@ figure img{
 	height: 5%;
 }
 .toggle-button .bar {
-	height: 3px;
+	height: 5px;
 	width: 100%;
 	background-color: black;
-	border-radius: 10px;;
+	border-radius: 10px;
 }
 @media (max-width: 1200px) {
 	.toggle-button {
