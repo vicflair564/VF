@@ -16,6 +16,7 @@ body {
 }
 .vflogo {
 	max-width: 300px;
+	min-width: 300px;
 	margin-left: 50px;
 }
 h1 {
