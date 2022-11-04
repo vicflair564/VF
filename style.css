@@ -171,6 +171,7 @@ figure img{
 	.toggle-button {
 		display: flex;
 		margin-top: 30px;
+		margin-bottom: 30px;
 	}
 	.navbar-links {
 		display: none;
