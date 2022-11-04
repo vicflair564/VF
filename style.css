@@ -189,10 +189,15 @@ figure img{
 }
 @media (max-width: 1200px) {
 	body{
-		max-width: 100%;
-		background-size: contain;
-		background-size: cover;
-
+		margin: 0;
+	padding: 0;
+	background: url("bg.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+	background-size: cover;
+	background-attachment: fixed;
+	max-width: 100%;
 	} 
 	.toggle-button {
 		display: flex;
