@@ -86,7 +86,10 @@ button:hover {
 h2 {
 	text-align: center;
 	display: block;
-	font-size: xx-large;
+	font-size: 30px;
+	font-weight: 600;
+	letter-spacing: 1px;
+	margin-bottom: 10px;
 }
 figcaption {
 	font-size: xx-large;
@@ -98,7 +101,8 @@ figcaption {
 	padding-bottom: 30px;
 	clear: both;
 	line-height: 2em;
-	font-size: x-large;
+	font-size: 30px;
+	font-weight: 600;
 }
 .aboutBox{
 	display: block;
