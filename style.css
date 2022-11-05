@@ -249,6 +249,7 @@ figure img{
 		position: relative;
 		max-width: 900px;
 		text-align: center;
+		width: auto;
 	}
 
 }
