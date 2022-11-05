@@ -4,7 +4,7 @@
 	font-family: 'Poppins', sans-serif;
 	box-sizing: border-box;
 }
- /* body {
+body {
 	margin: 0;
 	padding: 0;
 	background: url("bg.jpg");
@@ -14,27 +14,17 @@
 	background-size: cover;
 	background-attachment: fixed;
 	max-width: 100%;
-} */
-.home {
+}
+/* .home {
 	margin: 0px;
 	padding: 0px;
-	/* background: url("bg.png"); */
+	background: url("bg.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
 	display: flex;
-}
-.bg{
-	position: absolute;
-	width: 100%;
-	margin: 0px;
-	display: flex;
-	height: 100%;
-	padding: 0;
-	z-index: 1;
-
-}
+} */
 .vflogo {
 	max-width: 300px;
 	min-width: 300px;
@@ -58,7 +48,6 @@ h1 {
 	max-width: 400px;
 	text-align: center;
 	margin: auto;
-	z-index: 2;
 }
 button {
 	background-color: black;
@@ -86,8 +75,6 @@ button:hover {
 	color: #fcfcfc;
 	display: flex;
 	border-bottom: 2px solid black;
-	position: relative;
-	z-index: 2;
 }
 h2 {
 	text-align: center;
@@ -274,7 +261,7 @@ figure img{
 	.home {
 		margin: 0px;
 		padding: 0px;
-		/* background: url("bg.png"); */
+		background: url("bg.png");
 		background-repeat: no-repeat;
 		background-position: center center;
 		background-size: cover;
