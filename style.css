@@ -7,7 +7,7 @@
  body {
 	margin: 0;
 	padding: 0;
-	background: url("bg.png");
+	background: url("bg.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: contain;
@@ -191,7 +191,7 @@ figure img{
 	body{
 		margin: 0;
 		padding: 0;
-		background: url("bg.png");
+		background: url("bg.jpg");
 		background-repeat: no-repeat;
 		background-position: center;
 
