@@ -4,6 +4,9 @@
 	font-family: 'Poppins', sans-serif;
 	box-sizing: border-box;
 }
+html {
+	scroll-behavior: smooth;
+}
 
 .home {
 	position: relative;
@@ -77,6 +80,8 @@ button:hover {
 	color: #fcfcfc;
 	display: flex;
 	border-bottom: 2px solid black;
+	width: 100%;
+	position: relative;
 }
 h2 {
 	text-align: center;
@@ -87,7 +92,7 @@ figcaption {
 	font-size: xx-large;
 }
 .aboutP {
-	max-width: 1000px;
+	max-width: 850px;
 	display: flex;
 	margin: 20px auto 10px auto;
 	padding-bottom: 30px;
