@@ -4,7 +4,7 @@
 	font-family: 'Poppins', sans-serif;
 	box-sizing: border-box;
 }
- body {
+ /* body {
 	margin: 0;
 	padding: 0;
 	background: url("bg.jpg");
@@ -14,7 +14,7 @@
 	background-size: cover;
 	background-attachment: fixed;
 	max-width: 100%;
-} 
+} */
 .home {
 	margin: 0px;
 	padding: 0px;
@@ -188,17 +188,15 @@ figure img{
 	border-radius: 10px;
 }
 @media (max-width: 1200px) {
-	body{
+	/* body{
 		margin: 0;
 		padding: 0;
 		background: url("bg.jpg");
 		background-repeat: no-repeat;
 		background-position: center;
-
-
 		background-attachment: fixed;
 		max-width: 100%;
-	} 
+	} */
 	.toggle-button {
 		display: flex;
 		margin-top: 30px;
