@@ -194,6 +194,8 @@ figure img{
 		background-repeat: no-repeat;
 		background-position: center;
 		background-attachment: fixed;
+		background-size: contain;
+		background-size: cover;
 		max-width: 100%;
 	} 
 	.toggle-button {
