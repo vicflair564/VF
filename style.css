@@ -116,7 +116,8 @@ figcaption {
 	margin-top: 0px;
 	display: flex;
 	text-align: center;
-	font-weight: bold;
+	font-weight: 600;
+	font-size: 30px;
 	overflow: hidden;
 	width: 100vw;
 }
@@ -125,6 +126,8 @@ figcaption {
 	margin-right: auto;
 	margin-top: 20px;
 	padding: 20px;
+	font-weight: 600;
+	font-size: 30px;
 }
 .content {
 	clear: both;
