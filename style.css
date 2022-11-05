@@ -258,7 +258,7 @@ figure img{
 		margin-top: 20px;
 		max-width: 1000px;
 	}
-	.home {
+	/* .home {
 		margin: 0px;
 		padding: 0px;
 		background: url("bg.png");
@@ -269,6 +269,6 @@ figure img{
 		display: flex;
 		max-width: 100%;
 		height: auto;
-	}
+	} */
 
 }
