@@ -187,7 +187,7 @@ figure img{
 	border-radius: 10px;
 }
 @media (max-width: 1200px) {
-	/* body{
+	body{
 		margin: 0;
 		padding: 0;
 		background: url("bg.jpg");
@@ -195,7 +195,7 @@ figure img{
 		background-position: center;
 		background-attachment: fixed;
 		max-width: 100%;
-	} */
+	} 
 	.toggle-button {
 		display: flex;
 		margin-top: 30px;
