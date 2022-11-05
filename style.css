@@ -245,16 +245,6 @@ figure img{
 		margin-top: 20px;
 		max-width: 1000px;
 	}
-	.home {
-		margin: 0px;
-		padding: 0px;
-		background: url("bg.png");
-		background-repeat: no-repeat;
-		background-position: center center;
-		background-size: cover;
-		background-attachment: fixed;
-		max-width: 100%;
-		display: flex;
-	}
+
 
 }
