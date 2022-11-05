@@ -15,7 +15,7 @@ body {
 	background-attachment: fixed;
 	max-width: 100%;
 }
-/* .home {
+ .home {
 	margin: 0px;
 	padding: 0px;
 	background: url("bg.png");
@@ -24,7 +24,7 @@ body {
 	background-size: cover;
 	background-attachment: fixed;
 	display: flex;
-} */
+} 
 .vflogo {
 	max-width: 300px;
 	min-width: 300px;
