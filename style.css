@@ -249,6 +249,12 @@ figure img{
 	h2, figcaption {
 		font-size: xx-large;
 	}
+	h1 {
+		font-size: 5rem;
+	}
+	.experience {
+		font-size: xx-large;
+	}
 	.aboutP {
 		margin-top: 20px;
 		max-width: 1000px;
