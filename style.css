@@ -202,6 +202,19 @@ figure img{
 	background-color: black;
 	border-radius: 10px;
 }
+.contact
+{
+	padding: 100px;
+	background-color: #d93327;
+	text-align: center;
+	border-top: 2px solid black;
+}
+.contact .VF
+{
+	width: 150px;
+	height: 150px;
+	align-items: center;
+}
 @media (max-width: 1200px) {
 
 	.toggle-button {
