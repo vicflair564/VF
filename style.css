@@ -99,6 +99,8 @@ figcaption {
 	display: flex;
 	margin: 20px auto 10px auto;
 	padding-bottom: 30px;
+	padding-right: 30px;
+	padding-left: 30px;
 	clear: both;
 	line-height: 2em;
 	font-size: 30px;
