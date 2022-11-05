@@ -23,7 +23,7 @@
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
-	max-width: 100%;
+
 	display: flex;
 }
 .vflogo {
@@ -261,7 +261,6 @@ figure img{
 		background-position: center center;
 		background-size: cover;
 		background-attachment: fixed;
-		max-width: 100%;
 		display: flex;
 	}
 
